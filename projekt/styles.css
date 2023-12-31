@@ -1,0 +1,10 @@
+/* styles.css */
+
+#liveToast {
+    display: none;
+    background-color: yellow;
+    padding: 10px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
